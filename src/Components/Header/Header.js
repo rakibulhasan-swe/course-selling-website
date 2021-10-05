@@ -13,7 +13,6 @@ const Header = () => {
                 <Navbar.Collapse id="navbarScroll">
                     <Nav
                         className="mx-auto py-2 my-2 my-lg-0"
-                        style={{ maxHeight: '100px' }}
                         navbarScroll
                     >
                         <NavLink className='nav-link fw-bold' to="/home">Home</NavLink>
