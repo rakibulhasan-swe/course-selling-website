@@ -13,7 +13,7 @@ footer input::placeholder{
     color: white !important;
 }
 footer .input-group .input-group-text{
-    background: var(--bggradient);
+    background: #333;
     border: none;
 }
 footer .column i{
