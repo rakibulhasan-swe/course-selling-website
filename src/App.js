@@ -1,5 +1,6 @@
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'font-awesome/css/font-awesome.min.css';
 import './App.css';
 import Header from './Components/Header/Header';
 import Home from './Components/Home/Home';
@@ -7,6 +8,7 @@ import Courses from './Components/Courses/Courses';
 import About from './Components/About/About';
 import ContactUs from './Components/ContactUs/ContactUs';
 import NotFound from './Components/NotFound/NotFound';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -33,6 +35,7 @@ function App() {
           <NotFound></NotFound>
         </Route>
       </Switch>
+      <Footer></Footer>
       </BrowserRouter>
     </div>
   );

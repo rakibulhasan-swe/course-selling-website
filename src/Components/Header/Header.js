@@ -19,7 +19,7 @@ const Header = () => {
                         <NavLink className='nav-link fw-bold' to="/home">Home</NavLink>
                         <NavLink className='nav-link fw-bold' to="/courses">Courses</NavLink>
                         <NavLink className='nav-link fw-bold' to="/about">About</NavLink>
-                        <NavLink className='nav-link fw-bold' to="/contactus">Contact US</NavLink>
+                        <NavLink className='nav-link fw-bold' to="/contactus">Contact Us</NavLink>
                     </Nav>
                     <Form className="d-flex">
                         <FormControl
