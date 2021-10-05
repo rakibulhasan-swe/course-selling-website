@@ -1,3 +1,15 @@
+# IT-SCHOOL - A e-learning platform
+## This website featuring a lot of paid courses
+### Website made by using:
+    * Html
+    * Css
+    * Bootstrap
+    * JavaScript
+    * React
+
+### Website link [IT-SCHOOL](). 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
